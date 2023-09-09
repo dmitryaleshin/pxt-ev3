@@ -1,3 +1,5 @@
+# This is a fork of the original branch. It will contain my personal fixes
+
 # LEGO® MINDSTORMS® Education EV3 for Microsoft MakeCode [![Build Status](https://travis-ci.org/microsoft/pxt-ev3.svg?branch=master)](https://travis-ci.org/microsoft/pxt-ev3)
 
 This repo contains the editor target hosted at https://makecode.mindstorms.com
