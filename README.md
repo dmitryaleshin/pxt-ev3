@@ -2,7 +2,7 @@
 
 # LEGO® MINDSTORMS® Education EV3 for Microsoft MakeCode [![Build Status](https://travis-ci.org/microsoft/pxt-ev3.svg?branch=master)](https://travis-ci.org/microsoft/pxt-ev3)
 
-This repo contains the editor target hosted at https://makecode.mindstorms.com
+This repo contains the editor for EV3 brick. It is not hosted anywere due to problems with deploy procedure.
 
 ## Local setup
 
@@ -55,6 +55,7 @@ cd pxt-ev3
 pxt serve --cloud
 ```
 
+## The following is not working
 ## to build and deploy a single package via command line
 
 ```
